@@ -1,6 +1,8 @@
-# Conda environment with environment.yml
+# Zamieszczem tu różne pliki ułatwiające pracę na zajęciach.
 
-## Notes
+## Conda environment with environment.yml
+
+### Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend.
 
